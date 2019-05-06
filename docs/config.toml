@@ -1,4 +1,5 @@
-baseURL = "/"
+baseURL = "https://filippo82.github.io/softwareunderground/" # https://gohugo.io/hosting-and-deployment/hosting-on-github/
+publishDir = "docs" # see https://gohugo.io/hosting-and-deployment/hosting-on-github/
 languageCode = "en-us"
 title = "Software Underground"
 theme = "kube"
