@@ -159,6 +159,15 @@ Button Button &amp;lt;button class=&amp;ldquo;button outline&amp;rdquo;&amp;gt;B
     </item>
     
     <item>
+      <title>Breadcrumbs</title>
+      <link>https://filippo82.github.io/softwareunderground/projects/breadcrumbs/</link>
+      <pubDate>Mon, 10 Apr 2017 16:41:54 +0100</pubDate>
+      
+      <guid>https://filippo82.github.io/softwareunderground/projects/breadcrumbs/</guid>
+      <description>Base   Home   Shop   Catalog   T-Shirts  Brand   &amp;lt;nav class=&amp;ldquo;breadcrumbs&amp;rdquo;&amp;gt; &amp;lt;ul&amp;gt; &amp;lt;li&amp;gt;&amp;lt;a href=&amp;rdquo;&amp;rdquo;&amp;gt;&amp;hellip;&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt;&amp;lt;span&amp;gt;&amp;hellip;&amp;lt;/span&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;/ul&amp;gt; &amp;lt;/nav&amp;gt;   Centered   Home   Shop   Catalog   T-Shirts  Brand    &amp;lt;nav class=&amp;ldquo;breadcrumbs push-center&amp;rdquo;&amp;gt; &amp;lt;ul&amp;gt; &amp;lt;li&amp;gt;&amp;lt;a href=&amp;rdquo;&amp;rdquo;&amp;gt;&amp;hellip;&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;li class=&amp;ldquo;active&amp;rdquo;&amp;gt;&amp;lt;a href=&amp;rdquo;&amp;rdquo;&amp;gt;&amp;hellip;&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;/ul&amp;gt; &amp;lt;/nav&amp;gt;   Custom Separator   Home   Shop   Catalog   T-Shirts  Brand   // css #breadcrumbs-custom-separator li:after { content: &amp;lsquo;&amp;gt;&amp;lsquo;; }</description>
+    </item>
+    
+    <item>
       <title>Pagination</title>
       <link>https://filippo82.github.io/softwareunderground/docs/pagination/</link>
       <pubDate>Mon, 10 Apr 2017 16:42:03 +0100</pubDate>
@@ -290,23 +299,21 @@ For example, import kube.scss into your master.scss styles file, which you will 
     </item>
     
     <item>
-      <title>Utils</title>
-      <link>https://filippo82.github.io/softwareunderground/docs/utils/</link>
-      <pubDate>Mon, 10 Apr 2017 16:43:30 +0100</pubDate>
-      
-      <guid>https://filippo82.github.io/softwareunderground/docs/utils/</guid>
-      <description>Group Combines float elements to group with a clearfix.
-This text is visibly floating left  This text looks like a case of right float   &amp;lt;div class=&amp;ldquo;group&amp;rdquo;&amp;gt; &amp;lt;div class=&amp;ldquo;float-left&amp;rdquo;&amp;gt;&amp;hellip;&amp;lt;/div&amp;gt; &amp;lt;div class=&amp;ldquo;float-right&amp;rdquo;&amp;gt;&amp;hellip;&amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt;   Visibility Below is an invisible div with class invisible. You can&amp;rsquo;t see it, because it is invisible. You can&amp;rsquo;t see invisible things.
-invisible  But you can see this div because it has visible class.</description>
-    </item>
-    
-    <item>
       <title>Inline 🐣Text Styles</title>
       <link>https://filippo82.github.io/softwareunderground/blog/inline-style/</link>
       <pubDate>Sun, 02 Apr 2017 21:56:55 +0100</pubDate>
       
       <guid>https://filippo82.github.io/softwareunderground/blog/inline-style/</guid>
       <description>Chocolate tiramisu pastry a link cotton candy sesame snaps. Dessert cake chocolate bar a bold part sugar plum bonbon marshmallow lollipop toffee soufflé. Donut caramels chocolate bar. Oat cake cookie a marked part cheesecake donut. Jelly-o  $code marzipan cake. Bonbon sesame snaps chocolate an italic part oat cake pudding sweet roll caramels bonbon. Soufflé muffin 👻 gummies sugar plum dessert bonbon bear claw. Sweet ice cream jujubes. Marzipan sugar plum pastry chocolate ⌘+A bar fruitcake.</description>
+    </item>
+    
+    <item>
+      <title>Code of Conduct</title>
+      <link>https://filippo82.github.io/softwareunderground/coc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://filippo82.github.io/softwareunderground/coc/</guid>
+      <description>Article 1 Lore ipsum &amp;hellip;</description>
     </item>
     
     <item>

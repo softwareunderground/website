@@ -63,35 +63,31 @@
 
 
 <body class="page-kube">
-  <header> <div class="show-sm">
-    <div id="nav-toggle-box">
-      <div id="nav-toggle-brand">
-        <a href="/">Software Underground</a>
-      </div><a data-component="toggleme" data-target="#top" href="#" id="nav-toggle"><i class="kube-menu"></i></a>
-    </div>
+  <header> <div class="is-navbar-box" id="top">
+  <div id="is-brand">
+    <b><a href="https://filippo82.github.io/softwareunderground/" title="home">Software Underground</a></b>
+    <a href="#" class="icon-kube-menu is-shown-mobile"
+      data-kube="toggle" data-target="#my-navbar">
+    </a>
   </div>
-  <div class="hide-sm" id="top">
-    <div id="top-brand">
-      <a href="/" title="home">Software Underground</a>
-    </div>
-    <nav id="top-nav-main">
+  <div id="my-navbar top-nav-main" class="is-navbar is-hidden-mobile">
+    <nav id="is-stacked is-push-right top-nav-main">
       <ul>
-       
-       
-    <li><a href="/softwareunderground/blog/" >Blog</a></li>
-    
-    <li><a href="/softwareunderground/docs/" >Docs</a></li>
-    
-    <li><a href="/softwareunderground/faq/" >Faq</a></li>
-    
-      </ul>
-    </nav>
-    <nav id="top-nav-extra"> 
-      <ul>
-          
+        
+        
+        <li><a href="/softwareunderground/blog/" >Blog</a></li>
+        
+        <li><a href="/softwareunderground/docs/" >Doc</a></li>
+        
+        <li><a href="/softwareunderground/faq/" >Faq</a></li>
+        
+        <li><a href="/softwareunderground/projects/" >Projects</a></li>
+        
       </ul>
     </nav>
   </div>
+
+</div>
  </header>
   <main>
 
@@ -129,23 +125,18 @@
     <footer id="footer">
     <nav>
       <ul>
-        <li><span>Kube</span></li>
+        <li><span>Software Underground</span></li>
         <li>
-          <a href="/company/">Company</a>
-        </li>
-        <li>
-          <a href="/blog/">Blog</a>
-        </li>
-          <li>
-          <a href="/docs/">Docs</a>
+          <a href="coc">Code of Conduct</a>
         </li>
         <li>
           <a href="https://twitter.com/">Give a shout-out on Twitter!</a>
         </li>
       </ul>
     </nav>
-    <p>&copy; Licence MIT.</p>
-  </footer> 
+    <p>&copy; License MIT</p>
+  </footer>
+ 
 </footer>
 
 

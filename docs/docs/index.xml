@@ -241,16 +241,5 @@ For example, import kube.scss into your master.scss styles file, which you will 
 // master.scss @import &amp;ldquo;dist/scss/kube.scss&amp;rdquo;;  Now all Kube&amp;rsquo;s variables and mixins are readily available in master.</description>
     </item>
     
-    <item>
-      <title>Utils</title>
-      <link>https://filippo82.github.io/softwareunderground/docs/utils/</link>
-      <pubDate>Mon, 10 Apr 2017 16:43:30 +0100</pubDate>
-      
-      <guid>https://filippo82.github.io/softwareunderground/docs/utils/</guid>
-      <description>Group Combines float elements to group with a clearfix.
-This text is visibly floating left  This text looks like a case of right float   &amp;lt;div class=&amp;ldquo;group&amp;rdquo;&amp;gt; &amp;lt;div class=&amp;ldquo;float-left&amp;rdquo;&amp;gt;&amp;hellip;&amp;lt;/div&amp;gt; &amp;lt;div class=&amp;ldquo;float-right&amp;rdquo;&amp;gt;&amp;hellip;&amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt;   Visibility Below is an invisible div with class invisible. You can&amp;rsquo;t see it, because it is invisible. You can&amp;rsquo;t see invisible things.
-invisible  But you can see this div because it has visible class.</description>
-    </item>
-    
   </channel>
 </rss>

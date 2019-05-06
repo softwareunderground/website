@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Software Underground</title>
+    <link>https://filippo82.github.io/softwareunderground/projects/</link>
+    <description>Recent content in Projects on Software Underground</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Apr 2017 16:41:54 +0100</lastBuildDate>
+    
+	<atom:link href="https://filippo82.github.io/softwareunderground/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Breadcrumbs</title>
+      <link>https://filippo82.github.io/softwareunderground/projects/breadcrumbs/</link>
+      <pubDate>Mon, 10 Apr 2017 16:41:54 +0100</pubDate>
+      
+      <guid>https://filippo82.github.io/softwareunderground/projects/breadcrumbs/</guid>
+      <description>Base   Home   Shop   Catalog   T-Shirts  Brand   &amp;lt;nav class=&amp;ldquo;breadcrumbs&amp;rdquo;&amp;gt; &amp;lt;ul&amp;gt; &amp;lt;li&amp;gt;&amp;lt;a href=&amp;rdquo;&amp;rdquo;&amp;gt;&amp;hellip;&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt;&amp;lt;span&amp;gt;&amp;hellip;&amp;lt;/span&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;/ul&amp;gt; &amp;lt;/nav&amp;gt;   Centered   Home   Shop   Catalog   T-Shirts  Brand    &amp;lt;nav class=&amp;ldquo;breadcrumbs push-center&amp;rdquo;&amp;gt; &amp;lt;ul&amp;gt; &amp;lt;li&amp;gt;&amp;lt;a href=&amp;rdquo;&amp;rdquo;&amp;gt;&amp;hellip;&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;li class=&amp;ldquo;active&amp;rdquo;&amp;gt;&amp;lt;a href=&amp;rdquo;&amp;rdquo;&amp;gt;&amp;hellip;&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;/ul&amp;gt; &amp;lt;/nav&amp;gt;   Custom Separator   Home   Shop   Catalog   T-Shirts  Brand   // css #breadcrumbs-custom-separator li:after { content: &amp;lsquo;&amp;gt;&amp;lsquo;; }</description>
+    </item>
+    
+  </channel>
+</rss>

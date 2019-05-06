@@ -1,0 +1,19 @@
+<div class="is-navbar-box" id="top">
+  <div id="is-brand">
+    <b><a href="{{ .Site.BaseURL}}" title="home">{{ .Site.Title }}</a></b>
+    <a href="#" class="icon-kube-menu is-shown-mobile"
+      data-kube="toggle" data-target="#my-navbar">
+    </a>
+  </div>
+  <div id="my-navbar top-nav-main" class="is-navbar is-hidden-mobile">
+    <nav id="is-stacked is-push-right top-nav-main">
+      <ul>
+        {{ $currentPage := . }}
+        {{ range .Site.Menus.main }}
+        <li><a href="{{ .URL }}" {{if  $currentPage.IsMenuCurrent "main" . }} class="active" {{end}}>{{ .Name }}</a></li>
+        {{end}}
+      </ul>
+    </nav>
+  </div>
+
+</div>
