@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kube theme for Hugo on Software Underground</title>
+    <title>Software Underground</title>
     <link>https://filippo82.github.io/softwareunderground/</link>
-    <description>Recent content in Kube theme for Hugo on Software Underground</description>
+    <description>Recent content on Software Underground</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 10 Apr 2017 16:43:36 +0100</lastBuildDate>
@@ -310,7 +310,7 @@ invisible  But you can see this div because it has visible class.</description>
     </item>
     
     <item>
-      <title>Company</title>
+      <title>Companyyy</title>
       <link>https://filippo82.github.io/softwareunderground/company/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
