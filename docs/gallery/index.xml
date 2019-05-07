@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Galleries on Software Underground</title>
+    <link>https://filippo82.github.io/softwareunderground/gallery/</link>
+    <description>Recent content in Galleries on Software Underground</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Apr 2019 16:43:08 +0100</lastBuildDate>
+    
+	<atom:link href="https://filippo82.github.io/softwareunderground/gallery/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welly</title>
+      <link>https://filippo82.github.io/softwareunderground/gallery/welly/</link>
+      <pubDate>Wed, 10 Apr 2019 16:43:08 +0100</pubDate>
+      
+      <guid>https://filippo82.github.io/softwareunderground/gallery/welly/</guid>
+      <description>Description   The typography scale helps to build a balance between the size of headings and text elements
+   Show the code  2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21  import random guesses_made = 0 name = raw_input(&amp;#39;Hello! What is your name?\n&amp;#39;) number = random.randint(1, 20) print &amp;#39;Well, {0}, I am thinking of a number between 1 and 20.</description>
+    </item>
+    
+  </channel>
+</rss>

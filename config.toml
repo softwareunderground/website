@@ -2,9 +2,14 @@ baseURL = "https://filippo82.github.io/softwareunderground/" # https://gohugo.io
 publishDir = "docs" # see https://gohugo.io/hosting-and-deployment/hosting-on-github/
 languageCode = "en-us"
 title = "Software Underground"
-theme = "kube_swung"
+theme = "kube_swung_v2"
 description = "The Software Underground is a grass-roots community of subsurface professionals - academic and applied geologists, geophysicists, resource engineers, and others - who write code and use computers in their work. Welcome!"
 Paginate = 4
+
+#staticDir = ["images"]
+
+pygmentsStyle= "monokailight"
+
 [Params]
 RSSLink = "/index.xml"
 author = "Software Underground" # add your company name
@@ -12,14 +17,19 @@ github = "softwareunderground" # add your github profile name
 twitter = "" # add your twitter profile
 email = "myemail@myaddress.xxx"
 
+# Choose weights to order the menus
 [[menu.main]]
 name = "Doc"
 weight = -100
 url = "/docs/"
 [[menu.main]]
 name = "Projects"
-weight = -100
+weight = -150
 url = "/projects/"
+[[menu.main]]
+name = "Gallery"
+weight = -140
+url = "/gallery/"
 [[menu.main]]
 name = "Blog"
 weight = -100

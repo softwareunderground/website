@@ -118,6 +118,11 @@
   </url>
   
   <url>
+    <loc>https://filippo82.github.io/softwareunderground/gallery/welly/</loc>
+    <lastmod>2019-04-10T16:43:08+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://filippo82.github.io/softwareunderground/docs/animation/</loc>
     <lastmod>2017-04-10T16:43:08+01:00</lastmod>
   </url>
@@ -138,14 +143,20 @@
   </url>
   
   <url>
-    <loc>https://filippo82.github.io/softwareunderground/docs/</loc>
-    <lastmod>2017-04-10T16:43:36+01:00</lastmod>
+    <loc>https://filippo82.github.io/softwareunderground/gallery/</loc>
+    <lastmod>2019-04-10T16:43:08+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://filippo82.github.io/softwareunderground/</loc>
+    <lastmod>2019-04-10T16:43:08+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://filippo82.github.io/softwareunderground/docs/</loc>
     <lastmod>2017-04-10T16:43:36+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>

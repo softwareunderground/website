@@ -11,4 +11,16 @@
       </ul>
     </nav>
     <p>&copy; License MIT</p>
+
   </footer>
+
+{{ "<!-- Main Script -->" | safeHTML }}
+<script src="{{ "js/jquery-3.4.1.min.js" | absURL }}" type="text/javascript"></script>
+<script src="{{ "js/tocbot.min.js" | absURL }}" type="text/javascript"></script>
+<script src="{{ "js/kube.js" | absURL }}" type="text/javascript"></script>
+<script src="{{ "js/kube.min.js" | absURL }}" type="text/javascript"></script>
+
+<!-- Kube JS (optional if you are using Kube CSS only) -->
+<script>
+  $K.dom(window).on('load', $K.init);
+</script>
