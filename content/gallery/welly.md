@@ -1,25 +1,25 @@
 +++
-description = "Manage subsurface well data"
 title = "Welly"
+description = "Manage subsurface well data"
 date = "2019-04-10T16:43:08+01:00"
+weight = 20
 draft = false
-weight = 200
 bref="Welly is a family of classes to facilitate the loading, processing, and analysis of subsurface wells and well data, such as striplogs, formation tops, well log curves, and synthetic seismograms."
 toc = false
-script = 'animation'
-repo = ""
-website = ""
+website = "https://welly.readthedocs.io/en/latest/"
+repo = "https://github.com/agile-geoscience/welly"
 +++
 
-<h3 class="section-head">Description</h3>
-
-<div class="is-col">
+<div class="is-width-small is-center">
   {{< figure src="../../images/welly.png" alt="Welly" width="100%"
     caption="The typography scale helps to build a balance between the size of headings and text elements">}}
 </div>
 
+
 <div id="action-buttons">
-  <button class="button is-secondary" data-kube="toggle" data-target="#box">Show the code</button>
+  <button class="button" data-kube="toggle" data-target="#box">Reproduce the image</button>
+  <a class="button outline big" href="{{< param website >}}">Website</a>
+  <a class="button outline big" href="{{< param repo >}}">Source code</a>
 </div>
 <div id="box" class="is-hidden">
   {{< highlight py3 "linenos=table,hl_lines=8 15-17,linenostart=2">}}

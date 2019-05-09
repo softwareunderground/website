@@ -1,0 +1,14 @@
+{{ define "title"}} {{ .Title}} {{end}}
+{{ define "header"}} {{ partial "header" .}} {{end}}
+
+{{ define "main" }}
+
+<div id="hero" class="wrap">
+  <h1>This is not the page you are looking for</h1>
+  <a href="{{ "." | absURL }}">Go home!</a>
+</div>
+
+{{ end }}
+{{ define "footer" }}
+{{ partial "footer" . }}
+{{ end }}

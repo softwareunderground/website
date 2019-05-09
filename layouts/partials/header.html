@@ -1,27 +1,25 @@
 <div class="is-navbar-box" id="top">
   <div id="is-brand">
-    <b><a href="{{ .Site.BaseURL}}" title="home">{{ .Site.Title }}</a></b>
-    <a href="#" class="icon-kube-menu is-shown-mobile"
-      data-kube="toggle" data-target="#my-navbar">
-    </a>
+    <h3><a href="{{ .Site.BaseURL}}" title="home">{{ .Site.Title }}</a></h3>
+    <a href="#" class="icon-kube-menu is-shown-mobile" data-kube="toggle" data-target="#my-navbar"></a>
   </div>
   <div id="my-navbar top-nav-main" class="is-navbar is-hidden-mobile">
     <nav id="is-stacked is-push-right top-nav-main">
       <ul>
         {{ $currentPage := . }}
         {{ range .Site.Menus.main }}
-        <li><a href="{{ .URL }}" {{if  $currentPage.IsMenuCurrent "main" . }} class="active" {{end}}>{{ .Name }}</a></li>
+        <li>
+          <a href="{{ .URL }}" {{if  $currentPage.IsMenuCurrent "main" . }} class="active" {{end}}>{{ .Name }}</a>
+        </li>
         {{end}}
       </ul>
     </nav>
   </div>
-
 </div>
 
 <link href="{{ "css/font.css" | absURL }}" rel="stylesheet" type="text/css">
 <link href="{{ "css/kube.min.css" | absURL }}" rel="stylesheet" type="text/css">
 <link href="{{ "css/kube.legenda.css" | absURL }}" rel="stylesheet" type="text/css">
-
-<link href="{{ "css/master.css" | absURL }}" rel="stylesheet" type="text/css">
 <link href="{{ "css/kube.demo.css" | absURL }}" rel="stylesheet" type="text/css">
-<link href="{{ "css/custom.css" | absURL }}" rel="stylesheet" type="text/css">
+<link href="{{ "css/master.css" | absURL }}" rel="stylesheet" type="text/css">
+<link href="{{ "css/a.css" | absURL }}" rel="stylesheet" type="text/css">

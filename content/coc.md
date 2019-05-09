@@ -1,9 +1,77 @@
 +++
 draft= false
 title = "Code of Conduct"
-description = "Asked and answered"
+description = "v 2019.02"
 +++
 
-## Article 1
+## Our Pledge
 
-Lore ipsum ...
+In the interest of fostering an open and welcoming environment,
+we as community members pledge to making participation in our community
+a harassment-free experience for everyone, regardless of age, body size,
+disability, ethnicity, sex characteristics, gender identity and expression,
+level of experience, education, socio-economic status, nationality,
+
+This Code of Conduct applies to all of the community's activities,
+including the Slack team, its code repositories, and its face-to-face meetups.
+
+## Our Standards
+
+Examples of behaviour that contributes to creating a positive environment include:
+
+* Using welcoming and inclusive language.
+* Being respectful of differing viewpoints and experiences.
+* Gracefully accepting constructive criticism.
+* Focusing on what is best for the community.
+* Showing empathy towards other community members.
+
+Examples of unacceptable behaviour by participants include:
+
+* The use of sexualized language or imagery and unwelcome sexual attention or advances.
+* Trolling, insulting/derogatory comments, and personal or political attacks.
+* Public or private harassment.
+* Publishing others' private information,
+such as a physical or electronic address, without explicit permission.
+* Other conduct which could reasonably be considered inappropriate
+
+## Our Responsibilities
+
+Community maintainers have the right and responsibility to remove, edit,
+or reject comments, code, edits, issues, and other contributions that are not
+aligned to this Code of Conduct, or to ban temporarily or
+permanently any contributor for other behaviours that they deem inappropriate,
+threatening, offensive, or harmful.
+
+## Scope
+
+This Code of Conduct applies both within community spaces and in public space
+when an individual is representing the project or its community.
+Examples of representing a project or community include using
+an official project e-mail address, posting via an official social media
+account, or acting as an appointed representative at an online or offline
+event. Representation of the community may be further defined and clarified
+by community maintainers.
+
+## Enforcement
+
+Instances of abusive, harassing, or otherwise unacceptable behaviour may be
+reported by contacting the maintainers at
+[hello@softwareunderground.org](mailto:hello@softwareunderground.org).
+All complaints will be reviewed and investigated and will result in a response
+that is deemed necessary and appropriate to the circumstances.
+The community maintainers are obligated to maintain confidentiality
+with regard to the reporter of an incident. Further details of specific
+enforcement policies may be posted separately.
+
+Community maintainers who do not follow or enforce the Code of Conduct
+in good faith may face temporary or permanent repercussions as determined
+by other members of the community.
+
+---
+
+This Code of Conduct is adapted from the
+[Contributor Covenant](https://www.contributor-covenant.org/),
+version 1.4, available
+[here](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html).
+For answers to common questions about this code of conduct,
+see [here](https://www.contributor-covenant.org/faq).

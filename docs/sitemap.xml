@@ -8,15 +8,40 @@
   </url>
   
   <url>
-    <loc>https://filippo82.github.io/softwareunderground/docs/quick-start/</loc>
+    <loc>https://filippo82.github.io/softwareunderground/docs_old/quick-start/</loc>
   </url>
   
   <url>
-    <loc>https://filippo82.github.io/softwareunderground/docs/custom-plugins/</loc>
+    <loc>https://filippo82.github.io/softwareunderground/projects/segyio/</loc>
+    <lastmod>2019-05-09T19:01:26+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://filippo82.github.io/softwareunderground/docs/typography/</loc>
+    <loc>https://filippo82.github.io/softwareunderground/data/kansas/</loc>
+    <lastmod>2019-05-09T17:29:14+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://filippo82.github.io/softwareunderground/gallery/segyio/</loc>
+    <lastmod>2019-05-09T17:29:14+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://filippo82.github.io/softwareunderground/cookbook/fwi/</loc>
+    <lastmod>2019-05-09T13:42:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://filippo82.github.io/softwareunderground/gallery/welly/</loc>
+    <lastmod>2019-04-10T16:43:08+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://filippo82.github.io/softwareunderground/docs_old/custom-plugins/</loc>
+  </url>
+  
+  <url>
+    <loc>https://filippo82.github.io/softwareunderground/docs_old/typography/</loc>
   </url>
   
   <url>
@@ -29,26 +54,26 @@
   </url>
   
   <url>
-    <loc>https://filippo82.github.io/softwareunderground/docs/grid/</loc>
+    <loc>https://filippo82.github.io/softwareunderground/docs_old/grid/</loc>
   </url>
   
   <url>
-    <loc>https://filippo82.github.io/softwareunderground/docs/tables/</loc>
+    <loc>https://filippo82.github.io/softwareunderground/docs_old/tables/</loc>
     <lastmod>2017-04-10T16:40:43+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://filippo82.github.io/softwareunderground/docs/forms/</loc>
+    <loc>https://filippo82.github.io/softwareunderground/docs_old/forms/</loc>
     <lastmod>2017-04-10T16:40:50+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://filippo82.github.io/softwareunderground/docs/buttons/</loc>
+    <loc>https://filippo82.github.io/softwareunderground/docs_old/buttons/</loc>
     <lastmod>2017-04-10T16:41:16+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://filippo82.github.io/softwareunderground/docs/labels/</loc>
+    <loc>https://filippo82.github.io/softwareunderground/docs_old/labels/</loc>
     <lastmod>2017-04-10T16:40:43+01:00</lastmod>
   </url>
   
@@ -58,42 +83,42 @@
   </url>
   
   <url>
-    <loc>https://filippo82.github.io/softwareunderground/docs/messages/</loc>
+    <loc>https://filippo82.github.io/softwareunderground/docs_old/messages/</loc>
     <lastmod>2017-04-10T16:41:34+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://filippo82.github.io/softwareunderground/docs/tabs/</loc>
+    <loc>https://filippo82.github.io/softwareunderground/docs_old/tabs/</loc>
     <lastmod>2017-04-10T16:41:40+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://filippo82.github.io/softwareunderground/docs/breadcrumbs/</loc>
+    <loc>https://filippo82.github.io/softwareunderground/docs_old/breadcrumbs/</loc>
     <lastmod>2017-04-10T16:41:54+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://filippo82.github.io/softwareunderground/projects/breadcrumbs/</loc>
+    <loc>https://filippo82.github.io/softwareunderground/projects/segyio2/</loc>
     <lastmod>2017-04-10T16:41:54+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://filippo82.github.io/softwareunderground/docs/pagination/</loc>
+    <loc>https://filippo82.github.io/softwareunderground/docs_old/pagination/</loc>
     <lastmod>2017-04-10T16:42:03+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://filippo82.github.io/softwareunderground/docs/dropdown/</loc>
+    <loc>https://filippo82.github.io/softwareunderground/docs_old/dropdown/</loc>
     <lastmod>2017-04-10T16:42:12+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://filippo82.github.io/softwareunderground/docs/modal/</loc>
+    <loc>https://filippo82.github.io/softwareunderground/docs_old/modal/</loc>
     <lastmod>2017-04-10T16:42:18+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://filippo82.github.io/softwareunderground/docs/sticky/</loc>
+    <loc>https://filippo82.github.io/softwareunderground/docs_old/sticky/</loc>
     <lastmod>2017-04-10T16:42:26+01:00</lastmod>
   </url>
   
@@ -103,58 +128,71 @@
   </url>
   
   <url>
-    <loc>https://filippo82.github.io/softwareunderground/docs/collapse/</loc>
+    <loc>https://filippo82.github.io/softwareunderground/docs_old/collapse/</loc>
     <lastmod>2017-04-10T16:42:50+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://filippo82.github.io/softwareunderground/docs/offcanvas/</loc>
+    <loc>https://filippo82.github.io/softwareunderground/docs_old/offcanvas/</loc>
     <lastmod>2017-04-10T16:42:43+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://filippo82.github.io/softwareunderground/docs/toggleme/</loc>
+    <loc>https://filippo82.github.io/softwareunderground/docs_old/toggleme/</loc>
     <lastmod>2017-04-10T16:42:59+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://filippo82.github.io/softwareunderground/gallery/welly/</loc>
-    <lastmod>2019-04-10T16:43:08+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://filippo82.github.io/softwareunderground/docs/animation/</loc>
+    <loc>https://filippo82.github.io/softwareunderground/docs_old/animation/</loc>
     <lastmod>2017-04-10T16:43:08+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://filippo82.github.io/softwareunderground/docs/colors/</loc>
+    <loc>https://filippo82.github.io/softwareunderground/docs_old/colors/</loc>
     <lastmod>2017-04-10T16:43:14+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://filippo82.github.io/softwareunderground/docs/sizing/</loc>
+    <loc>https://filippo82.github.io/softwareunderground/docs_old/sizing/</loc>
     <lastmod>2017-04-10T16:43:21+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://filippo82.github.io/softwareunderground/docs/mixins/</loc>
+    <loc>https://filippo82.github.io/softwareunderground/docs_old/mixins/</loc>
     <lastmod>2017-04-10T16:43:36+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://filippo82.github.io/softwareunderground/gallery/</loc>
-    <lastmod>2019-04-10T16:43:08+01:00</lastmod>
+    <loc>https://filippo82.github.io/softwareunderground/projects/</loc>
+    <lastmod>2019-05-09T19:01:26+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://filippo82.github.io/softwareunderground/</loc>
-    <lastmod>2019-04-10T16:43:08+01:00</lastmod>
+    <lastmod>2019-05-09T19:01:26+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://filippo82.github.io/softwareunderground/docs/</loc>
+    <loc>https://filippo82.github.io/softwareunderground/data/</loc>
+    <lastmod>2019-05-09T17:29:14+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://filippo82.github.io/softwareunderground/gallery/</loc>
+    <lastmod>2019-05-09T17:29:14+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://filippo82.github.io/softwareunderground/cookbook/</loc>
+    <lastmod>2019-05-09T13:42:24+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://filippo82.github.io/softwareunderground/docs_old/</loc>
     <lastmod>2017-04-10T16:43:36+01:00</lastmod>
     <priority>0</priority>
   </url>
@@ -162,12 +200,6 @@
   <url>
     <loc>https://filippo82.github.io/softwareunderground/blog/</loc>
     <lastmod>2017-04-10T16:42:50+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://filippo82.github.io/softwareunderground/projects/</loc>
-    <lastmod>2017-04-10T16:41:54+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -225,11 +257,19 @@
   </url>
   
   <url>
+    <loc>https://filippo82.github.io/softwareunderground/about/</loc>
+  </url>
+  
+  <url>
     <loc>https://filippo82.github.io/softwareunderground/coc/</loc>
   </url>
   
   <url>
-    <loc>https://filippo82.github.io/softwareunderground/company/</loc>
+    <loc>https://filippo82.github.io/softwareunderground/community/</loc>
+  </url>
+  
+  <url>
+    <loc>https://filippo82.github.io/softwareunderground/contact/</loc>
   </url>
   
   <url>
@@ -237,11 +277,31 @@
   </url>
   
   <url>
+    <loc>https://filippo82.github.io/softwareunderground/logos/</loc>
+  </url>
+  
+  <url>
+    <loc>https://filippo82.github.io/softwareunderground/manifesto/</loc>
+  </url>
+  
+  <url>
+    <loc>https://filippo82.github.io/softwareunderground/merchandise/</loc>
+  </url>
+  
+  <url>
     <loc>https://filippo82.github.io/softwareunderground/password-recovery/</loc>
   </url>
   
   <url>
-    <loc>https://filippo82.github.io/softwareunderground/account/</loc>
+    <loc>https://filippo82.github.io/softwareunderground/resources/</loc>
+  </url>
+  
+  <url>
+    <loc>https://filippo82.github.io/softwareunderground/subscribe/</loc>
+  </url>
+  
+  <url>
+    <loc>https://filippo82.github.io/softwareunderground/donate/</loc>
   </url>
   
 </urlset>

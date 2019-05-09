@@ -32,6 +32,7 @@
   <link rel="prev" href="{{ .Params.prev }}"> {{ end }} {{ if (isset .Params "next") }}
   <link rel="next" href="{{ .Params.next }}"> {{ end }}
 
+  <!-- Favicon -->
   {{ partial "favicon" . }}
 
 </head>
@@ -41,13 +42,6 @@
   <header>{{ block "header" . }}{{ end }}</header>
   <main>{{ block "main" . }}{{ end }}</main>
   <footer>{{ block "footer" . }}{{ end }}</footer>
-
-sjdgfkjsadgfkdjslkgfhjahlsdfhbjlafkhdfajkdddd
-
-{{ .Site.BaseURL }}js/kube.legenda.jss
-
-
-
 </body>
 
 </html>

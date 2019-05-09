@@ -6,17 +6,26 @@
     <description>Recent content in Projects on Software Underground</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Apr 2017 16:41:54 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2019 19:01:26 +0200</lastBuildDate>
     
 	<atom:link href="https://filippo82.github.io/softwareunderground/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>segyio</title>
+      <link>https://filippo82.github.io/softwareunderground/projects/segyio/</link>
+      <pubDate>Thu, 09 May 2019 19:01:26 +0200</pubDate>
+      
+      <guid>https://filippo82.github.io/softwareunderground/projects/segyio/</guid>
+      <description>Goal Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
       <title>Breadcrumbs</title>
-      <link>https://filippo82.github.io/softwareunderground/projects/breadcrumbs/</link>
+      <link>https://filippo82.github.io/softwareunderground/projects/segyio2/</link>
       <pubDate>Mon, 10 Apr 2017 16:41:54 +0100</pubDate>
       
-      <guid>https://filippo82.github.io/softwareunderground/projects/breadcrumbs/</guid>
+      <guid>https://filippo82.github.io/softwareunderground/projects/segyio2/</guid>
       <description>Base   Home   Shop   Catalog   T-Shirts  Brand   &amp;lt;nav class=&amp;ldquo;breadcrumbs&amp;rdquo;&amp;gt; &amp;lt;ul&amp;gt; &amp;lt;li&amp;gt;&amp;lt;a href=&amp;rdquo;&amp;rdquo;&amp;gt;&amp;hellip;&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt;&amp;lt;span&amp;gt;&amp;hellip;&amp;lt;/span&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;/ul&amp;gt; &amp;lt;/nav&amp;gt;   Centered   Home   Shop   Catalog   T-Shirts  Brand    &amp;lt;nav class=&amp;ldquo;breadcrumbs push-center&amp;rdquo;&amp;gt; &amp;lt;ul&amp;gt; &amp;lt;li&amp;gt;&amp;lt;a href=&amp;rdquo;&amp;rdquo;&amp;gt;&amp;hellip;&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;li class=&amp;ldquo;active&amp;rdquo;&amp;gt;&amp;lt;a href=&amp;rdquo;&amp;rdquo;&amp;gt;&amp;hellip;&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;/ul&amp;gt; &amp;lt;/nav&amp;gt;   Custom Separator   Home   Shop   Catalog   T-Shirts  Brand   // css #breadcrumbs-custom-separator li:after { content: &amp;lsquo;&amp;gt;&amp;lsquo;; }</description>
     </item>
     

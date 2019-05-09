@@ -12,51 +12,76 @@
   <!-- Button to GitHub -->
   <div id="action-buttons">
     <a class="button outline big" href="https://softwareunderground.org/slack">Join us on Slack</a>
-    <p>Includes all the source and site example files</p>
   </div>
 
   <!-- Alert -->
-  <div class="alert is-focus" data-kube="alert">
-    This website is a work in progress. Expect major changes.
-    <span class="close is-small" data-type="close"></span>
+  <div class="is-row">
+    <div class="is-col is-20">
+    </div>
+    <div class="is-col is-60">
+      <div class="alert is-focus" data-kube="alert">
+        This website is a work in progress. Expect major changes.
+        <span class="close is-small" data-type="close"></span>
+      </div>
+    </div>
+    <div class="is-col is-20">
+    </div>
   </div>
 
   <!-- Title and description -->
   <div id="kube-features">
 
     <!-- Row -->
-    <div class="is-row is-inset-32">
+    <div class="is-row">
 
-      <div class="is-col">
-        <h3>Manifesto</h3>
-        <p>In Kube horizontal rhythm based on a 4px vertical grid is something that we are truly proud of.</p>
+      <div class="is-col is-inset-16">
+        <h3><a href="{{ "manifesto" | absURL }}">Manifesto</a></h3>
+        <p>Read the intentions, motives, and views that motivates our community.</p>
       </div>
 
-      <div class="is-col">
-        <h3>Community</h3>
-        <p>We obsess over typography, and it shows throughout Kube.</p>
+      <div class="is-col is-inset-16">
+        <h3><a href="{{ "community" | absURL }}">Community</a></h3>
+        <p>Learn more about our lively, friendly community of 1000+ researchers &amp; practitioners in geo\computing.</p>
       </div>
 
-      <div class="is-col">
-        <h3>Resources</h3>
-        <p>We strongly believe in minimalism as a general concept as well as a practical approach to everyday life.</p>
+      <div class="is-col is-inset-16">
+        <h3><a href="{{ "resources" | absURL }}">Resources</a></h3>
+        <p>Check out all our favourite books, websites, and many more information.</p>
       </div>
     </div>
 
     <!-- Row -->
-    <div class="is-row is-inset-32">
-      <div class="is-col">
-        <a href="projects"><h3>Projects</h3></a>
-        <p>Every element in kube is mobile-first and fully embraces latest and greatest tech.</p>
+    <div class="is-row">
+      <div class="is-col is-inset-16">
+        <h3><a href="{{ "projects" | absURL }}">Projects</a></h3>
+        <p>Find out more about the awesome projects and software supported
+          and maintained by the Software Undeground community.
+        </p>
       </div>
-      <div class="is-col">
-        <h3>Gallery</h3>
-        <p>Kube works in all modern browsers, both desktop and mobile, including latest Chrome, Firefox, Safari, Opera, IE and Edge.</p>
+      <div class="is-col is-inset-16">
+        <h3><a href="{{ "gallery" | absURL }}">Gallery</a></h3>
+        <p>The gallery aims to showcase the many possibilities of the projects and to help you benefit from them.</p>
       </div>
-      <div class="is-col">
-        <h3>Cookbook</h3>
-        <p>Kube licensed under <a href="https://opensource.org/licenses/MIT">MIT</a>.<br>
-      Kube Framework is absolutely free for personal or commercial use.</p>
+      <div class="is-col is-inset-16">
+        <h3><a href="{{ "cookbook" | absURL }}">Cookbook</a></h3>
+        <p>Curated list of workflows that involve one or more Software Undeground projects.</p>
+      </div>
+    </div>
+
+    <!-- Row -->
+    <div class="is-row">
+      <div class="is-col is-inset-16">
+        <h3><a href="{{ "subscribe" | absURL }}">Subscribe</a></h3>
+        <p>Donate to the Software Underground and help us spread geoscience and computery goodness.</p>
+      </div>
+      <div class="is-col is-inset-16">
+        <h3><a href="{{ "merchandise" | absURL }}">Merchandise</a></h3>
+        <p>Buy Software Underground stuff and help spread the awesomeness.</p>
+      </div>
+      <div class="is-col is-inset-16">
+        <h3><a href="{{ "data" | absURL }}">Data catalogue</a></h3>
+        <p>Here you can find information on available and open datasets.</p>
+      </div>
     </div>
 
   </div>

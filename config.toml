@@ -19,22 +19,26 @@ email = "myemail@myaddress.xxx"
 
 # Choose weights to order the menus
 [[menu.main]]
-name = "Doc"
-weight = -100
-url = "/docs/"
+name = "Cookbook"
+weight = -160
+url = "/cookbook/"
 [[menu.main]]
 name = "Projects"
-weight = -150
+weight = -180
 url = "/projects/"
 [[menu.main]]
 name = "Gallery"
-weight = -140
+weight = -170
 url = "/gallery/"
 [[menu.main]]
 name = "Blog"
-weight = -100
+weight = -190
 url = "/blog/"
 [[menu.main]]
-name = "Faq"
-weight = -100
-url = "/faq/"
+name = "Data catalogue"
+weight = -150
+url = "/data/"
+[[menu.main]]
+name = "Resources"
+weight = -150
+url = "/resources"

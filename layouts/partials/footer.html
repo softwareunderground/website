@@ -1,26 +1,33 @@
   <footer id="footer">
     <nav>
       <ul>
-        <li><span>Software Underground</span></li>
         <li>
-          <a href="coc">Code of Conduct</a>
+          <a href="{{ "about" | absURL }}">About</a>
         </li>
         <li>
-          <a href="https://twitter.com/{{.Site.Params.twitter}}">Give a shout-out on Twitter!</a>
+          <a href="{{ "logos" | absURL }}">Logos</a>
+        </li>
+        <li>
+          <a href="{{ "coc" | absURL }}">Code of Conduct</a>
+        </li>
+        <li>
+          <a href="{{ "donate" | absURL }}">Donate</a>
+        </li>
+        <li>
+          <a href="{{ "contact" | absURL }}">Contact</a>
         </li>
       </ul>
     </nav>
-    <p>&copy; License MIT</p>
-
+    <p>Software Underground &copy</p>
   </footer>
 
-{{ "<!-- Main Script -->" | safeHTML }}
-<script src="{{ "js/jquery-3.4.1.min.js" | absURL }}" type="text/javascript"></script>
-<script src="{{ "js/tocbot.min.js" | absURL }}" type="text/javascript"></script>
-<script src="{{ "js/kube.js" | absURL }}" type="text/javascript"></script>
-<script src="{{ "js/kube.min.js" | absURL }}" type="text/javascript"></script>
+  {{ "<!-- Javascript stuff -->" | safeHTML }}
+  <script src="{{ "js/jquery-3.4.1.min.js" | absURL }}" type="text/javascript"></script>
+  <script src="{{ "js/tocbot.min.js" | absURL }}" type="text/javascript"></script>
+  <script src="{{ "js/kube.js" | absURL }}" type="text/javascript"></script>
+  <script src="{{ "js/kube.min.js" | absURL }}" type="text/javascript"></script>
 
-<!-- Kube JS (optional if you are using Kube CSS only) -->
-<script>
-  $K.dom(window).on('load', $K.init);
-</script>
+  <!-- Kube JS (optional if you are using Kube CSS only) -->
+  <script>
+    $K.dom(window).on('load', $K.init);
+  </script>
