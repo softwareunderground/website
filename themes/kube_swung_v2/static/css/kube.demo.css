@@ -372,7 +372,7 @@ button,
     display: flex;
     align-items: center;
     margin: 8px;
-    background-color: lightsalmon;
+    background-color: transparent; // DEBUG
 }
 
 #navbar-brand {

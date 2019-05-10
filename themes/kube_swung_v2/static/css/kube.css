@@ -2016,7 +2016,7 @@ fieldset > .form-item:last-child {
     align-items: center;
     min-width: 100%;
     min-height: 100%;
-    background-color: lightblue;
+    background-color: transparent; // DEBUG
 }
 
 @media only screen and (max-width: 767px) {
@@ -2032,7 +2032,7 @@ fieldset > .form-item:last-child {
     display: flex;
     align-items: center;
     margin: 8px;
-    background-color: lightcoral;
+    background-color: transparent; // DEBUG
 }
 
 .is-navbar-container .is-brand h1,
@@ -2144,7 +2144,7 @@ fieldset > .form-item:last-child {
         display: flex;
         align-items: center;
         max-width: 100%;
-        background-color: lightseagreen;
+        background-color: transparent; // DEBUG
     }
 
     .is-navbar-container:not(.is-scrollable) .is-navbar li,
