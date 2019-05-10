@@ -1,30 +1,29 @@
-<div class="is-navbar-container">
-    <div class="is-brand is-inset-left-32">
-        <h3><a href="{{ .Site.BaseURL}}" title="home">{{ .Site.Title }}</a></h3>
-        <!-- nav toggle element -->
-        <a href="#"
-                class="nav-toggle is-push-right-mobile is-shown-mobile icon-kube-menu"
-                data-kube="toggle"
-                data-target="#navbar-demo"></a>
-    </div>
-    <!-- collapsable navigation -->
-    <div id="navbar-demo" class="is-navbar is-hidden-mobile">
-        <nav class="is-push-right">
-            <ul>
-              {{ $currentPage := . }}
-              {{ range .Site.Menus.main }}
-              <li>
-                <a href="{{ .URL }}" {{if  $currentPage.IsMenuCurrent "main" . }} class="active" {{end}}>{{ .Name }}</a>
-              </li>
-              {{end}}
-            </ul>
-        </nav>
-    </div>
-</div>
-
 <link href="{{ "css/font.css" | absURL }}" rel="stylesheet" type="text/css">
-<link href="{{ "css/kube.min.css" | absURL }}" rel="stylesheet" type="text/css">
+{{ "<!-- This is not the minified CSS -->" | safeHTML }}
+<link href="{{ "css/kube.css" | absURL }}" rel="stylesheet" type="text/css">
 <link href="{{ "css/kube.legenda.css" | absURL }}" rel="stylesheet" type="text/css">
 <link href="{{ "css/kube.demo.css" | absURL }}" rel="stylesheet" type="text/css">
 <link href="{{ "css/master.css" | absURL }}" rel="stylesheet" type="text/css">
 <link href="{{ "css/a.css" | absURL }}" rel="stylesheet" type="text/css">
+
+{{ "<!-- Navigation bar -->" | safeHTML }}
+<div class="is-navbar-container">
+    <div class="is-brand">
+        <h3><a href="{{ .Site.BaseURL}}" title="home">{{ .Site.Title }}</a></h3>
+        <!-- nav toggle element -->
+        <h3><a href="#" class="nav-toggle is-push-right-mobile is-shown-mobile icon-kube-menu" data-kube="toggle" data-target="#navbar-demo"></a></h3>
+    </div>
+    <!-- collapsable navigation -->
+    <div class="is-navbar is-hidden-mobile" id="navbar-demo">
+        <nav class="is-push-right">
+            <ul>
+                {{ $currentPage := . }}
+                {{ range .Site.Menus.main }}
+                <li>
+                    <a href="{{ .URL }}" {{if  $currentPage.IsMenuCurrent "main" . }} class="active" {{end}}>{{ .Name }}</a>
+                </li>
+                {{end}}
+            </ul>
+        </nav>
+    </div>
+</div>
