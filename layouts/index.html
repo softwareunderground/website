@@ -3,88 +3,88 @@
 {{ define "main"}}
 
 <div id="main">
-  <!-- Title and description -->
-  <div id="hero">
-    <h1>{{.Site.Title}}</h1>
-    <p>{{.Description}}</p>
-  </div>
-
-  <!-- Button to GitHub -->
-  <div id="action-buttons">
-    <a class="button outline big" href="https://softwareunderground.org/slack">Join us on Slack</a>
-  </div>
-
-  <!-- Alert -->
-  <div class="is-row">
-    <div class="is-col is-20">
+    <!-- Title and description -->
+    <div id="hero">
+        <h1>{{.Site.Title}}</h1>
+        <p>{{.Description}}</p>
     </div>
-    <div class="is-col is-60">
-      <div class="alert is-focus" data-kube="alert">
-        This website is a work in progress. Expect major changes.
-        <span class="close is-small" data-type="close"></span>
-      </div>
-    </div>
-    <div class="is-col is-20">
-    </div>
-  </div>
 
-  <!-- Title and description -->
-  <div id="kube-features">
+    <!-- Button to GitHub -->
+    <div id="action-buttons">
+        <a class="button outline big" href="https://softwareunderground.org/slack">Join us on Slack</a>
+    </div>
 
-    <!-- Row -->
+    <!-- Alert -->
     <div class="is-row">
-
-      <div class="is-col is-inset-16">
-        <h3><a href="{{ "manifesto" | absURL }}">Manifesto</a></h3>
-        <p>Read the intentions, motives, and views that motivates our community.</p>
-      </div>
-
-      <div class="is-col is-inset-16">
-        <h3><a href="{{ "community" | absURL }}">Community</a></h3>
-        <p>Learn more about our lively, friendly community of 1000+ researchers &amp; practitioners in geo\computing.</p>
-      </div>
-
-      <div class="is-col is-inset-16">
-        <h3><a href="{{ "resources" | absURL }}">Resources</a></h3>
-        <p>Check out all our favourite books, websites, and many more information.</p>
-      </div>
+        <div class="is-col is-20">
+        </div>
+        <div class="is-col is-60">
+            <div class="alert is-focus" data-kube="alert">
+                This website is a work in progress. Expect major changes.
+                <span class="close is-small" data-type="close"></span>
+            </div>
+        </div>
+        <div class="is-col is-20">
+        </div>
     </div>
 
-    <!-- Row -->
-    <div class="is-row">
-      <div class="is-col is-inset-16">
-        <h3><a href="{{ "projects" | absURL }}">Projects</a></h3>
-        <p>Find out more about the awesome projects and software supported
-          and maintained by the Software Undeground community.
-        </p>
-      </div>
-      <div class="is-col is-inset-16">
-        <h3><a href="{{ "gallery" | absURL }}">Gallery</a></h3>
-        <p>The gallery aims to showcase the many possibilities of the projects and to help you benefit from them.</p>
-      </div>
-      <div class="is-col is-inset-16">
-        <h3><a href="{{ "cookbook" | absURL }}">Cookbook</a></h3>
-        <p>Curated list of workflows that involve one or more Software Undeground projects.</p>
-      </div>
-    </div>
+    <!-- Title and description -->
+    <div id="kube-features">
 
-    <!-- Row -->
-    <div class="is-row">
-      <div class="is-col is-inset-16">
-        <h3><a href="{{ "subscribe" | absURL }}">Subscribe</a></h3>
-        <p>Donate to the Software Underground and help us spread geoscience and computery goodness.</p>
-      </div>
-      <div class="is-col is-inset-16">
-        <h3><a href="{{ "merchandise" | absURL }}">Merchandise</a></h3>
-        <p>Buy Software Underground stuff and help spread the awesomeness.</p>
-      </div>
-      <div class="is-col is-inset-16">
-        <h3><a href="{{ "data" | absURL }}">Data catalogue</a></h3>
-        <p>Here you can find information on available and open datasets.</p>
-      </div>
-    </div>
+        <!-- Row -->
+        <div class="is-row">
 
-  </div>
+            <div class="is-col is-inset-16">
+                <h3><a href="{{ "manifesto" | absURL }}">Manifesto</a></h3>
+                <p>Read the intentions, motives, and views that motivates our community.</p>
+            </div>
+
+            <div class="is-col is-inset-16">
+                <h3><a href="{{ "community" | absURL }}">Community</a></h3>
+                <p>Learn more about our lively, friendly community of 1000+ researchers &amp; practitioners in geo\computing.</p>
+            </div>
+
+            <div class="is-col is-inset-16">
+                <h3><a href="{{ "resources" | absURL }}">Resources</a></h3>
+                <p>Check out all our favourite books, websites, and many more information.</p>
+            </div>
+        </div>
+
+        <!-- Row -->
+        <div class="is-row">
+            <div class="is-col is-inset-16">
+                <h3><a href="{{ "projects" | absURL }}">Projects</a></h3>
+                <p>Find out more about the awesome projects and software supported
+                    and maintained by the Software Undeground community.
+                </p>
+            </div>
+            <div class="is-col is-inset-16">
+                <h3><a href="{{ "gallery" | absURL }}">Gallery</a></h3>
+                <p>The gallery aims to showcase the many possibilities of the projects and to help you benefit from them.</p>
+            </div>
+            <div class="is-col is-inset-16">
+                <h3><a href="{{ "cookbook" | absURL }}">Cookbook</a></h3>
+                <p>Curated list of workflows that involve one or more Software Undeground projects.</p>
+            </div>
+        </div>
+
+        <!-- Row -->
+        <div class="is-row">
+            <div class="is-col is-inset-16">
+                <h3><a href="{{ "subscribe" | absURL }}">Subscribe</a></h3>
+                <p>Donate to the Software Underground and help us spread geoscience and computery goodness.</p>
+            </div>
+            <div class="is-col is-inset-16">
+                <h3><a href="{{ "merchandise" | absURL }}">Merchandise</a></h3>
+                <p>Buy Software Underground stuff and help spread the awesomeness.</p>
+            </div>
+            <div class="is-col is-inset-16">
+                <h3><a href="{{ "data" | absURL }}">Data catalogue</a></h3>
+                <p>Here you can find information on available and open datasets.</p>
+            </div>
+        </div>
+
+    </div>
 </div>
 </div>
 {{ end }}
