@@ -9,7 +9,7 @@ bref = """Segyio is a small LGPL licensed C library for easy interaction with
   """
 toc = false
 website = "https://segyio.readthedocs.io/en/latest/"
-repo = "https://github.com/equinor/segyior"
+repo = "https://github.com/equinor/segyio"
 +++
 
 ## Goal
