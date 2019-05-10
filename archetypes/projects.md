@@ -8,4 +8,5 @@ bref = ""
 toc = true
 website = ""
 repo = ""
+license = ""
 +++
